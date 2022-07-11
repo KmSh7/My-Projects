@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding:0%;
+    background-color: rgb(120, 135, 150);
+}
+header{
+    position: relative;
+    text-align: center;
+    background-color:rgb(75,92,107);
+    padding: 2px;
+    font-size: 25px;
+    letter-spacing: 1px;
+    color:white;
+}
