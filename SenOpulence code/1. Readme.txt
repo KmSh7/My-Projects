@@ -1,0 +1,14 @@
+MY PROJECT
+1)	ABOUT
+During my summer training I happened to make an E-Commerce website that was affiliated with amazon. User can search according to the provided categories which are :
+•	MEN
+•	WOMEN
+•	ACCESSORIES 
+•	JWELERY
+ User can also search for a specific item that he/she wants using the search bar provided. There are three webpages linked together to make the website. First is the main page that the user looks at first. Second page is the about page that, as the name suggests,  renders information about the website and last page is the help page that contains basic QnAs that a user might ask. The best feature that the website provides is that it does not reloads when any of the link linked to one of these there pages are clicked. Just like in YouTube when a user clicks any link the page does not reloads similarly this website does not reloads whenever a link is clicked, making it faster, hence providing better experience to the user. 
+Another important feature of this website, which is also very important or as I might say fundamental, is that it is fully responsive. 
+2)	Tools used
+Tools used, to make this website the way it is, are React Js (mainly), HTML, CSS, JavaScript. The no-reload feature of the website comes from React Js. Using React Routes one can implement a no-reload feature. 
+
+link:
+https://kmsh7.github.io/senopulence/
