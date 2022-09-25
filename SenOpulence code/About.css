@@ -1,0 +1,121 @@
+ /* for pcntab */
+.about-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    height:51vw;
+    width:100%;
+    background-color: rgba(255, 255, 0, 0);
+}
+.text{
+    position: absolute;
+    font-size: 100px;
+    color: white;
+}
+.content{
+    margin-top: 5%;
+}
+.about-headding{
+    font-size: 60px;
+    font-weight: 900;
+    color: black;
+}
+.h1-para{
+    font-size: 25px;
+}
+.affiliate{
+    font-weight: 900;
+    color: black;
+}
+.affiliate-para{
+    width: 70%;
+    margin-left: 4%;
+}
+@media (max-width:844px){
+   .text{
+    font-size: 90px;
+   }
+}
+@media (max-width:761px){
+    .text{
+     font-size: 80px;
+    }
+ }
+
+ /* for phone */
+@media (max-width:700px) {
+    .about-page-ph{
+        height:51vw;
+        width:90vw;
+        background-color: rgba(255, 255, 0, 0);
+    }
+    .text{
+        position: absolute;
+        font-size: 70px;
+        color: rgb(255, 255, 255);
+        top:0%;
+    }
+    .content{
+        position: relative;
+        margin-top:10%;
+        margin-left:5% ;
+    }
+    .about-headding{
+        font-size: 50px;
+        font-weight: 900;
+        color: black;
+    }
+    .h1-para{
+        font-size: 25px;
+    }
+    .affiliate{
+        font-weight: 900;
+        color: black;
+    }
+    .affiliate-para{
+        width: 70%;
+        margin-left: 4%;
+    }
+}
+@media (max-width:398px){
+    .text{
+        font-size: 17vw;
+    }
+}
+@media (max-width:305px){
+    .text{
+        top: 14%;
+        left: 7%;
+        font-size: 17vw;
+    }
+}
+@media (max-width:281px){
+    .content{
+        position: relative;
+        top:10%;
+    }
+    .about-headding{
+        font-size: 40px;
+        font-weight: 900;
+        color: black;
+    }
+    .h1-para{
+        font-size: 20px;
+    }
+    .affiliate{
+        font-weight: 900;
+        color: black;
+    }
+    .affiliate-para{
+        width: 70%;
+        margin-left: 4%;
+    }
+}
+@media (max-width:242px){
+    .text{
+        top: 18%;
+        left: 14%;
+        font-size: 14vw;
+    }
+}

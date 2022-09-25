@@ -1,0 +1,18 @@
+[
+    {
+        "category":"men",
+        "source":"men1.jpg"
+    },
+    {
+        "category":"women",
+        "source":"summer1.jpg"
+    },
+    {
+        "category":"accessories",
+        "source":"hdr12.jpg"
+    },
+    {
+        "category":"jewelry",
+        "source":"jwel1 (1).jpg"
+    }
+]
